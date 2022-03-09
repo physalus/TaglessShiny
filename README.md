@@ -1,7 +1,7 @@
 # TaglessBRS_Shiny
  
 Code and Data to produce the R Shiny app (https://musculus.shinyapps.io/taglessshiny/) referenced in the manuscript:
-Integrating remote sensing methods during controlled exposure experiments to quantify group responses of dolphins to navy sonar,
+*Integrating remote sensing methods during controlled exposure experiments to quantify group responses of dolphins to navy sonar*,
 J.W. Durban, B.L. Southall, J. Calambokidis, C. Casey, H. Fearnbach, T.W. Joyce, J.A. Fahlbusch, M.G. Oudejans, S. Fregosi, A.S. Friedlaender, N.M. Kellar, F. Visser,
 Marine Pollution Bulletin,
 Volume 174,
